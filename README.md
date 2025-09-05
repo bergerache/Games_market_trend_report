@@ -26,7 +26,7 @@
 
 ## 📊 **Data Analysis Overview**
 
-🔗 **[View Complete Analysis →](https://nbviewer.org/github/bergerache/Games_market_trend_report/blob/main/Games_market_trendReport.ipynb)**
+🔗 **[View Complete Analysis →](https://github.com/bergerache/Games_market_trend_report/blob/main/Games_market_trendReport.ipynb)**
 
 **Dataset Specifications:**
 - **16,444 games** after data cleaning and validation
