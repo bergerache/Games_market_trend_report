@@ -4,8 +4,6 @@
 
 *Strategic insights for video game industry decision-making through comprehensive data analysis*
 
-![Analysis Overview](images/analysis-overview.png)
-
 ---
 
 ## 🎯 Business Problem & Solution
@@ -86,8 +84,6 @@
 ---
 
 ## 📊 **Strategic Recommendations for 2017**
-
-![Recommendations](images/strategic-recommendations.png)
 
 ### **Platform Investment Priority**
 1. **Xbox One (XOne)** - 2013 release, following Xbox succession pattern
